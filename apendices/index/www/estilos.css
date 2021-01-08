@@ -1,0 +1,154 @@
+/* Fonts */
+@font-face {
+	font-family: 'museo700regular';
+	src: url('custom-fonts/museo700regular.eot');
+	src: local('custom-fonts'), url('custom-fonts/museo700regular.woff') format('woff'), url('custom-fonts/museo700regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'museo300-regular';
+	src: url('custom-fonts/museo300-regular.otf');
+}
+
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_14464">Text with this font applied</p> */
+.fontsforweb_fontid_14464 {
+	font-family: 'museo700regular' !important;
+}
+
+/* Body */ 
+body {
+    font-family: 'museo300-regular', 'Arial';
+    font-size: 18px;
+    color: #666666;
+    font-weight: 300;
+}
+
+
+h1 {
+    font-family: 'museo700regular';
+    font-size: 26px;
+    color: #666666;
+    font-weight: 700;
+    padding: 2em 0 0 0;
+}
+
+h1.title {
+    font-family: 'museo700regular';
+    font-size: 34px;
+    font-weight: 700;
+    padding: 25px 0 15px 0;
+}
+
+
+h2 {
+    font-family: 'museo700regular';
+    font-size: 24px;
+    color: #666666;
+    font-weight: 500;
+    padding: 25px 0 0 0;
+
+}
+
+.section h3 {
+    padding-top: 0 ;
+    margin-top: 0 ;
+    font-size: 21px;
+    padding: 1.2em 0 .5em 0;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'museo700regular';
+    font-size: 21px;
+    padding: 1.2em 0 .5em 0;
+    font-weight: 400;
+}
+
+
+.section  {
+    padding-top: 0 ;
+    margin-top: 0 ;
+    padding: 1.2em 0 .5em 0;
+}
+
+h4 {   
+    font-family: 'museo700regular';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+h5 {   
+    font-family: 'museo700regular';
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+@media only screen and (min-width: 768px) {
+.executive_summary {
+    font-family: 'museo300-regular', 'Arial';
+    font-size: 18px;
+    padding: 0 20px 1.5em 45px;
+  }
+}
+
+
+/* Datatable, bootstrap style */
+table.dataTable {
+  font-size: 16px;
+}
+
+.pagination>li {
+    font-size: 16px;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #666;
+    border-color: #666;
+}
+
+
+
+/* TOC #ffc864 */
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #232240;
+    border-color: #232240;
+}
+
+.tocify {
+  border: 1px solid #cccccc;
+  overflow-y: hidden;
+}
+
+/* LINKS and tabs */
+
+a {
+    color: #0045dd;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0045dd;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #232240;
+}
+
+/* NAVBAR */
+.navbar-default {
+    background-color: #ffed00;
+    opacity: 0.9;
+}
+
+/* Textos da Navbar */
+.navbar-default .navbar-brand {
+  font-family: 'museo700regular';
+  color: #E6007E;
+}

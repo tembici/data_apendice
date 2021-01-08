@@ -23,8 +23,8 @@ O objetivo desta página é apresentar informações sobre as técnicas utilizad
 Neste momento existem 3 (três) documentos online com as informações separadas por problemas de negócio, conforme descrito a seguir.
 
 
-No documento de "<a href="https://rsaviovieira.github.io/apendice_teste/public/hipoteses.html" target="_blank">Teste de Hipóteses</a>" são apresentadas as informações sobre os testes estatísticos aplicados pela equipe de Dados da Tembici nos relatórios de hipóteses realizados. 
+No documento de "<a href="https://tembici.github.io/data_apendice/public/hipoteses.html" target="_blank">Teste de Hipóteses</a>" são apresentadas as informações sobre os testes estatísticos aplicados pela equipe de Dados da Tembici nos relatórios de hipóteses realizados. 
 
-No documento de "<a href="https://rsaviovieira.github.io/apendice_teste/public/ml.html" target="_blank">*Machine Learning*</a>" são detalhados os algoritmos utilizados pela equipe para a aplicação da etapa de predição aos problemas de negócio. 
+No documento de "<a href="https://tembici.github.io/data_apendice/public/ml.html" target="_blank">*Machine Learning*</a>" são detalhados os algoritmos utilizados pela equipe para a aplicação da etapa de predição aos problemas de negócio. 
 
-No documento de "<a href="https://rsaviovieira.github.io/apendice_teste/public/text_mining.html" target="_blank">*Text Mining*</a>" é apresentada a técnica de processamento de Linguagem Natural, utilizada pela equipe de *People Analytics* para transformação de textos em dados para a análise. 
+No documento de "<a href="https://tembici.github.io/data_apendice/public/text_mining.html" target="_blank">*Text Mining*</a>" é apresentada a técnica de processamento de Linguagem Natural, utilizada pela equipe de *People Analytics* para transformação de textos em dados para a análise. 

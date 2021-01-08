@@ -4,13 +4,13 @@ O objetivo desta página é apresentar informações sobre as técnicas utilizad
 
 As urls das pãginas são:
 
-**Index**: https://rsaviovieira.github.io/apendice_teste/public/
+**Index**: https://tembici.github.io/data_apendice/public/
 
-**Teste de Hipóteses**: https://rsaviovieira.github.io/apendice_teste/public/hipoteses.html
+**Teste de Hipóteses**: https://tembici.github.io/data_apendice/public/hipoteses.html
 
-**_Machine Learning_**: https://rsaviovieira.github.io/apendice_teste/public/ml.html
+**_Machine Learning_**: https://tembici.github.io/data_apendice/public/ml.html
 
-**_Text Mining_**: https://rsaviovieira.github.io/apendice_teste/public/text_mining.html
+**_Text Mining_**: https://tembici.github.io/data_apendice/public/text_mining.html
 
 ---
 

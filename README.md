@@ -100,8 +100,3 @@ Para a correta execução dos códigos na ordem foi criado o arquivo `main.R`.
 Só serão publicadas as páginas HTMLs que estiverem disponiveis diretório `/public`, sendo que todas as vezes que ocorre uma publicação na **_branch gh-pages_** e somente nesta as páginas são atualizadas.
 
 
-
-### Atualização Branch
- 
-Como nos outros projetos, existe uma configuração no `.gitlab-ci.yml` que utiliza o CI/CD do GitLab para realizar a atualização da branch master, baseado na dev. Portando todo o código que estiver em dev será disponiblizado na branch master, assim como as paginas htmls.
-

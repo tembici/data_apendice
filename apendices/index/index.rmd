@@ -27,4 +27,4 @@ No documento de "<a href="https://tembici.github.io/data_apendice/public/hipotes
 
 No documento de "<a href="https://tembici.github.io/data_apendice/public/ml.html" target="_blank">*Machine Learning*</a>" são detalhados os algoritmos utilizados pela equipe para a aplicação da etapa de predição aos problemas de negócio. 
 
-No documento de "<a href="https://tembici.github.io/data_apendice/public/text_mining.html" target="_blank">*Text Mining*</a>" é apresentada a técnica de processamento de Linguagem Natural, utilizada pela equipe de *People Analytics* para transformação de textos em dados para a análise. 
+No documento de "<a href="https://tembici.github.io/data_apendice/public/text_mining.html" target="_blank">*Text Mining*</a>" é apresentada a técnica de processamento de Linguagem Natural, utilizada ppela equipe de Dados da Tembici para transformação de textos em dados para a análise. 

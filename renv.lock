@@ -1,20 +1,20 @@
 {
   "R": {
-    "Version": "4.0.3",
+    "Version": "3.6.3",
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "https://cloud.r-project.org"
+        "URL": "https://cran.rstudio.com"
       }
     ]
   },
   "Packages": {
     "BH": {
       "Package": "BH",
-      "Version": "1.72.0-3",
+      "Version": "1.75.0-0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "8f9ce74c6417d61f0782cbae5fd2b7b0"
+      "Hash": "e4c04affc2cac20c8fec18385cd14691"
     },
     "Cairo": {
       "Package": "Cairo",
@@ -144,10 +144,10 @@
     },
     "RcppArmadillo": {
       "Package": "RcppArmadillo",
-      "Version": "0.10.1.2.0",
+      "Version": "0.10.1.2.2",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "1a885965adade4b8629c478a3b3c2cf7"
+      "Hash": "c66578fcae4cd6f42bddffee8a67f19b"
     },
     "RcppEigen": {
       "Package": "RcppEigen",
@@ -165,10 +165,10 @@
     },
     "SQUAREM": {
       "Package": "SQUAREM",
-      "Version": "2020.5",
+      "Version": "2021.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "e7cc49f49f2a4cf5fc79e94b42dc8391"
+      "Hash": "0cf10dab0d023d5b46a5a14387556891"
     },
     "StanHeaders": {
       "Package": "StanHeaders",
@@ -193,10 +193,10 @@
     },
     "XML": {
       "Package": "XML",
-      "Version": "3.99-0.5",
+      "Version": "3.99-0.3",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "408d42d1359f2a84d377c1f7f0568624"
+      "Hash": "c1616606f097075542c12fb8a10a071e"
     },
     "alphavantager": {
       "Package": "alphavantager",
@@ -340,10 +340,10 @@
     },
     "cpp11": {
       "Package": "cpp11",
-      "Version": "0.2.4",
+      "Version": "0.2.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "ba66e5a750d39067d888aa7af797fed2"
+      "Hash": "8b9a10255e862eb99e38fa8b0caa6c0d"
     },
     "crayon": {
       "Package": "crayon",
@@ -361,10 +361,10 @@
     },
     "crosstalk": {
       "Package": "crosstalk",
-      "Version": "1.1.0.1",
+      "Version": "1.1.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "ae55f5d7c02f0ab43c58dd050694f2b4"
+      "Hash": "2b06f9e415a62b6762e4b8098d2aecbc"
     },
     "crul": {
       "Package": "crul",
@@ -571,10 +571,10 @@
     },
     "formattable": {
       "Package": "formattable",
-      "Version": "0.2.0.1",
+      "Version": "0.2.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "63d2d78cc9aed64a11b02d800698f6ce"
+      "Hash": "870d6d5d39b23923d0c816f904075b4c"
     },
     "fracdiff": {
       "Package": "fracdiff",
@@ -585,10 +585,10 @@
     },
     "freetypeharfbuzz": {
       "Package": "freetypeharfbuzz",
-      "Version": "0.2.5",
+      "Version": "0.2.6",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "fa6a9cec402736e5f674c0c691e2947e"
+      "Hash": "0d645c4e0b31f62350ba14945abd5d39"
     },
     "fs": {
       "Package": "fs",
@@ -746,10 +746,10 @@
     },
     "hexbin": {
       "Package": "hexbin",
-      "Version": "1.28.1",
+      "Version": "1.28.2",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "3d59212f2814d65dff517e6899813c58"
+      "Hash": "76314b69dc54f8c14204063a2fd6d74a"
     },
     "highcharter": {
       "Package": "highcharter",
@@ -774,10 +774,10 @@
     },
     "htmltools": {
       "Package": "htmltools",
-      "Version": "0.5.0",
+      "Version": "0.5.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "7d651b7131794fe007b1ad6f21aaa401"
+      "Hash": "4d5452ff42a254e861282931190d052a"
     },
     "htmlwidgets": {
       "Package": "htmlwidgets",
@@ -795,10 +795,10 @@
     },
     "httpuv": {
       "Package": "httpuv",
-      "Version": "1.5.4",
+      "Version": "1.5.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "4e6dabb220b006ccdc3b3b5ff993b205"
+      "Hash": "b9d5d39be2150cf86538b8488334b8f8"
     },
     "httr": {
       "Package": "httr",
@@ -1024,13 +1024,6 @@
       "Repository": "CRAN",
       "Hash": "61e4a10781dd00d7d81dd06ca9b94e95"
     },
-    "mathjaxr": {
-      "Package": "mathjaxr",
-      "Version": "1.0-1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "e8daa2c6418b7d40dbecefe5d4925158"
-    },
     "matrixStats": {
       "Package": "matrixStats",
       "Version": "0.57.0",
@@ -1129,6 +1122,13 @@
       "Repository": "CRAN",
       "Hash": "98f6a7837d3d6207e2bd9fa70fdf09e0"
     },
+    "palmerpenguins": {
+      "Package": "palmerpenguins",
+      "Version": "0.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "9a455031890b2adf20e19784a114ddd4"
+    },
     "parallelly": {
       "Package": "parallelly",
       "Version": "1.23.0",
@@ -1187,10 +1187,10 @@
     },
     "plotly": {
       "Package": "plotly",
-      "Version": "4.9.2.2",
+      "Version": "4.9.3",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "d15a1ef71d99e20bf8e90cf5854bc3e7"
+      "Hash": "f6b85d9e4ed88074ea0ede1aa74bb00e"
     },
     "plotlyGeoAssets": {
       "Package": "plotlyGeoAssets",
@@ -1306,10 +1306,10 @@
     },
     "ragg": {
       "Package": "ragg",
-      "Version": "0.4.0",
+      "Version": "0.4.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "34630c700bb331339a80ddc9c6821e25"
+      "Hash": "70bd921f54c3763f3dbec15106118828"
     },
     "rappdirs": {
       "Package": "rappdirs",
@@ -1383,10 +1383,10 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.12.3-62",
+      "Version": "0.12.5-7",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "78947fd8feabfcdc0550d405cd276286"
+      "Hash": "43c4c783c3a051c704351ef8fc41fff0"
     },
     "repr": {
       "Package": "repr",
@@ -1432,10 +1432,10 @@
     },
     "rgl": {
       "Package": "rgl",
-      "Version": "0.103.5",
+      "Version": "0.104.16",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "cc56e110fb3158202a5b054773b91dba"
+      "Hash": "82c3f3b6ff1ee1c53acd6c39e9698444"
     },
     "riingo": {
       "Package": "riingo",
@@ -1593,10 +1593,10 @@
     },
     "shinytest": {
       "Package": "shinytest",
-      "Version": "1.4.0",
+      "Version": "1.5.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "9697b1139098fc6a7231a4b893316501"
+      "Hash": "88ae6f976bd4866f3778217375986a31"
     },
     "showimage": {
       "Package": "showimage",
@@ -1607,10 +1607,10 @@
     },
     "showtext": {
       "Package": "showtext",
-      "Version": "0.9-1",
+      "Version": "0.9-2",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "f0f1f13305a0e27926df7caf42ae3cba"
+      "Hash": "e5dab22dca0b4626733ffca54b81fb6b"
     },
     "showtextdb": {
       "Package": "showtextdb",
@@ -1642,10 +1642,10 @@
     },
     "sp": {
       "Package": "sp",
-      "Version": "1.4-4",
+      "Version": "1.4-5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "e0485290545c0e768c2b50390114da1f"
+      "Hash": "dfd843ee98246cf932823acf613b05dd"
     },
     "sparkline": {
       "Package": "sparkline",
@@ -1691,10 +1691,10 @@
     },
     "sysfonts": {
       "Package": "sysfonts",
-      "Version": "0.8.2",
+      "Version": "0.8.3",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "7a1b6f0c5aba733dfe7c5edcb5b3a1e6"
+      "Hash": "6a750650ae5e5ba11b45cb5012bd6167"
     },
     "systemfonts": {
       "Package": "systemfonts",
@@ -1908,10 +1908,10 @@
     },
     "webdriver": {
       "Package": "webdriver",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "966f2cee50cf95fdbce9c395187b2baf"
+      "Hash": "adc1e0db3ac0d75dcdb4b8179e7ca796"
     },
     "webshot": {
       "Package": "webshot",
